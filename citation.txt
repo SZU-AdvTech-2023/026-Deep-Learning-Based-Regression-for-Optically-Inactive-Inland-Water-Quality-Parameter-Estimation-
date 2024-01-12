@@ -1,0 +1,9 @@
+@article{REPO026,
+    author = "Niu, Chao and Tan, Kun and Jia, Xiuping and Wang, Xue",
+    journal = "Environmental Pollution",
+    pages = "117534",
+    publisher = "Elsevier",
+    title = "{Deep learning based regression for optically inactive inland water quality parameter estimation using airborne hyperspectral imagery}",
+    volume = "286",
+    year = "2021"
+}
